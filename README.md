@@ -1,11 +1,11 @@
-📊 Sales Performance Dashboard – README
+# 📊 Sales Performance Dashboard – README
 Overview
 
 This Power BI dashboard provides an interactive, data-driven overview of sales performance across multiple dimensions, including country, product, sales personnel, and time (year, quarter, and month).
 The goal of the dashboard is to help stakeholders understand trends in boxes shipped, sales amount, and the contribution of various factors to overall performance.
 
-Dashboard Components
-1. Boxes Shipped by Country
+# Dashboard Components
+## 1. Boxes Shipped by Country
 
 A bar chart comparing total boxes shipped across different countries.
 This visual helps identify high-performing markets and regions needing attention.
@@ -18,7 +18,7 @@ Regional demand patterns
 
 Opportunities for expansion or optimization
 
-2. Amount and Boxes Shipped by Year, Quarter & Month
+## 2. Amount and Boxes Shipped by Year, Quarter & Month
 
 A combined line chart that tracks both sales amount and boxes shipped over time.
 
@@ -30,7 +30,7 @@ Relationship between shipped volume and revenue
 
 Performance changes across Q1–Q3 for 2022
 
-3. Boxes Shipped and Amount by Sales Person
+## 3. Boxes Shipped and Amount by Sales Person
 
 A horizontal bar chart showing how much each sales representative contributes in terms of:
 
@@ -46,7 +46,7 @@ Sales productivity comparison
 
 Resource allocation and training needs
 
-4. Boxes Shipped by Product
+## 4. Boxes Shipped by Product
 
 A ranking of products based on shipment volume.
 
@@ -58,7 +58,7 @@ Demand variations among product lines
 
 Inventory and production planning cues
 
-5. Amount by Year, Quarter, Month, and Product
+## 5. Amount by Year, Quarter, Month, and Product
 
 A waterfall chart illustrating how individual products contribute to the total sales amount within a given period.
 
@@ -70,17 +70,7 @@ Net impact of each product category
 
 Trend of cumulative sales performance
 
-Data Sources
-
-Internal sales and logistics records
-
-Product shipment logs
-
-Sales representative performance datasets
-
-Time-based revenue and distribution data
-
-Objectives of the Dashboard
+## Objectives of the Dashboard
 
 Provide a real-time view of sales operations
 
@@ -90,7 +80,7 @@ Track changes in revenue and shipment volume over time
 
 Support management decisions through clear, interactive analytics
 
-How to Use the Dashboard
+## How to Use the Dashboard
 
 Filter by year, quarter, or month to explore specific time periods.
 
@@ -100,22 +90,3 @@ Drill down into visuals to view underlying data points.
 
 Use slicers (if included) to analyze specific countries, products, or sales reps.
 
-Tools Used
-
-Power BI Desktop
-
-Data modeling with Power Query
-
-DAX for calculated measures
-
-Interactive visualizations
-
-Future Enhancements
-
-Integration of predictive analytics (forecasting future shipments)
-
-Customer segmentation dashboards
-
-Profit and cost analysis
-
-Automatic refresh with live data sources
