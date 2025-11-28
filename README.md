@@ -1,4 +1,4 @@
-# 📊 Sales Performance Dashboard – README
+# 📊 Sales Performance Dashboard
 Overview
 
 This Power BI dashboard provides an interactive, data-driven overview of sales performance across multiple dimensions, including country, product, sales personnel, and time (year, quarter, and month).
