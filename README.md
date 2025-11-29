@@ -88,5 +88,5 @@ Hover over charts for detailed tooltips and exact values.
 
 Drill down into visuals to view underlying data points.
 
-Use slicers (if included) to analyze specific countries, products, or sales reps.
+Use slicers to analyze specific countries, products, or sales reps.
 
